@@ -1,0 +1,379 @@
+ORIGINAL	NORMALISED	CORRECT LABEL	PREDICTED LABEL
+|chillen|	|chilling|	13	11
+|wit|	|with|	11	9
+|Niggra|	|nigger|	11	12
+|lol|	|laughing out loud|	6	9
+|omo|	|oh my|	1	12
+|cause|	|because|	10	1
+|Lol|	|laughing out loud|	6	9
+|DUN|	|don't|	13	12
+|DA|	|the|	12	11
+|smyle|	|smile|	11	1
+|lol|	|laughing out loud|	6	9
+|lmaoo|	|laughing my ass off|	6	14
+|Yo|	|you|	10	9
+|omg|	|oh my god|	6	14
+|OMG|	|oh my god|	6	14
+|wkeend|	|weekend|	1	8
+|lmao|	|laughing my ass off|	6	9
+|actully|	|actually|	1	8
+|lol|	|laughing out loud|	6	9
+|bouta|	|about to|	13	14
+|lol|	|laughing out loud|	6	9
+|Lol|	|laughing out loud|	6	9
+|ik|	|i know|	6	14
+|urself|	|yourself|	11	12
+|Lol|	|laughing out loud|	6	9
+|lmfao|	|laughing my fucking ass off|	6	9
+|Omg|	|oh my god|	6	14
+|nothin|	|nothing|	12	11
+|nomore|	|no more|	5	1
+|Lol|	|laughing out loud|	6	9
+|lol|	|laughing out loud|	6	9
+|ik|	|i know|	6	14
+|lol|	|laughing out loud|	6	9
+|DatPiff|	|the piff|	5	14
+|DIY|	|do it yourself|	6	9
+|Lol|	|laughing out loud|	6	9
+|Lmfao|	|laughing my fucking ass off|	6	9
+|ABT|	|about|	10	9
+|lol|	|laughing out loud|	6	9
+|FLAVOUR|	|flavor|	3	12
+|IG|	|instagram|	10	9
+|wit|	|with|	11	9
+|Ya|	|your|	13	12
+|gon|	|gonna|	9	4
+|lottle|	|lot|	1	7
+|peole|	|people|	1	8
+|wit|	|with|	11	9
+|lol|	|laughing out loud|	6	9
+|lmao|	|laughing my ass off|	6	9
+|Wut|	|what|	13	1
+|lol|	|laughing out loud|	6	9
+|lol|	|laughing out loud|	6	9
+|centre|	|center|	3	12
+|omg|	|oh my god|	6	14
+|Omg|	|oh my god|	6	14
+|wtf|	|what the fuck|	6	14
+|thang|	|thing|	13	12
+|niggas|	|niggers|	11	12
+|tho|	|though|	11	9
+|lmao|	|laughing my ass off|	6	9
+|cause|	|because|	10	1
+|PDX|	|portland|	10	12
+|whatdoiwear|	|what do i wear|	5	14
+|cdfu|	|cracking the fuck up|	6	14
+|asst|	|assistant|	10	9
+|lol|	|laughing out loud|	6	9
+|jst|	|just|	8	9
+|yah|	|you|	13	12
+|RT|	|retweet|	10	9
+|ilysm|	|i love you so much|	6	9
+|Mins|	|minutes|	10	9
+|whisky|	|whiskey|	3	8
+|nid|	|need|	11	12
+|tho|	|though|	11	9
+|shizz|	|shit|	13	15
+|vid|	|video|	9	12
+|lmfao|	|laughing my fucking ass off|	6	9
+|HAPPYLGOVO|	|happy|	1	7
+|Neva|	|never|	12	11
+|gal|	|guy|	13	12
+|nigga|	|nigger|	11	12
+|liek|	|like|	1	13
+|doesng|	|doesn't|	1	15
+|idk|	|i don't know|	6	14
+|lol|	|laughing out loud|	6	9
+|ily|	|i love you|	6	14
+|lang|	|long|	15	1
+|yhu|	|you|	11	1
+|looool|	|laughing out loud|	6	14
+|nuh|	|know|	11	12
+|WearR|	|wear|	1	7
+|ur|	|your|	11	12
+|lmao|	|laughing my ass off|	6	9
+|Mnl|	|my new love|	6	14
+|nk|	|no kidding|	6	14
+|sence|	|sense|	12	1
+|humour|	|humor|	3	7
+|UR|	|your|	11	12
+|tho|	|though|	11	9
+|idk|	|i don't know|	6	14
+|ur|	|your|	11	12
+|tho|	|though|	11	9
+|Lol|	|laughing out loud|	6	9
+|HAVR|	|have|	1	15
+|n|	|and|	10	12
+|dogg|	|dog|	1	7
+|dogg|	|dog|	1	7
+|DMs|	|direct messages|	6	9
+|wcd|	|what you doing|	6	14
+|nigga|	|nigger|	11	12
+|Goddamit|	|god damn it|	5	14
+|Feelin|	|feeling|	11	1
+|Bruh|	|brother|	13	9
+|lol|	|laughing out loud|	6	9
+|n|	|and|	10	12
+|FOH|	|fuck outa here|	6	9
+|b|	|be|	12	15
+|w|	|with|	9	15
+|throught|	|through|	1	7
+|throught|	|through|	1	7
+|nigga|	|nigger|	11	12
+|nigga|	|nigger|	11	12
+|THEYRE|	|they're|	2	3
+|THEYRE|	|they're|	2	3
+|neighbour|	|neighbor|	3	7
+|omg|	|oh my god|	6	14
+|neighbour|	|neighbor|	3	7
+|LOL|	|laughing out loud|	6	9
+|abt|	|about|	10	9
+|viru|	|virus|	1	15
+|lol|	|laughing out loud|	6	9
+|theirselves|	|themselves|	3	12
+|getcha|	|get you|	11	14
+|Lololol|	|laughing out loud|	6	14
+|whr|	|where|	8	12
+|voy|	|boy|	1	12
+|skepta|	|sunglasses|	15	13
+|Idk|	|i don't know|	6	14
+|Filmz|	|film|	5	7
+|LOL|	|laughing out loud|	6	9
+|lol|	|laughing out loud|	6	9
+|lol|	|laughing out loud|	6	9
+|DAT|	|that|	11	12
+|DAT|	|that|	11	12
+|idk|	|i don't know|	6	14
+|Lmao|	|laughing my ass off|	6	9
+|lol|	|laughing out loud|	6	9
+|YM|	|my|	1	15
+|GDO|	|god|	1	12
+|keepin|	|keeping|	12	11
+|lol|	|laughing out loud|	6	9
+|witchu|	|with you|	11	14
+|witchu|	|with you|	11	14
+|prez|	|president|	9	13
+|kot|	|kingdom of trolls|	6	9
+|Quil|	|quill|	15	1
+|nem|	|they|	15	12
+|lol|	|laughing out loud|	6	9
+|lol|	|laughing out loud|	6	9
+|lmao|	|laughing my ass off|	6	9
+|tickt|	|ticket|	10	1
+|Lmao|	|laughing my ass off|	6	9
+|N|	|and|	10	12
+|lmao|	|laughing my ass off|	6	9
+|lMFAO|	|laughing my fucking ass off|	6	9
+|LOL|	|laughing out loud|	6	9
+|Tix|	|tickets|	13	10
+|sim|	|seems|	15	12
+|Mins|	|minutes|	10	9
+|wid|	|with|	11	15
+|Pmsl|	|pissing myself laughing|	6	9
+|gospe|	|gospel|	1	9
+|Feelin|	|feeling|	11	1
+|switc|	|switch|	1	15
+|Nighas|	|niggers|	13	12
+|ur|	|your|	11	12
+|OMFG|	|oh my fucking god|	6	14
+|WTF|	|what the fuck|	6	14
+|tha|	|the|	12	11
+|omg|	|oh my god|	6	14
+|lol|	|laughing out loud|	6	9
+|lol|	|laughing out loud|	6	9
+|n|	|and|	10	12
+|Jst|	|just|	8	9
+|lmfao|	|laughing my fucking ass off|	6	9
+|satnite|	|saturday night|	12	14
+|jfb|	|jesus fucking bale|	6	10
+|niggas|	|niggers|	11	12
+|nigga|	|nigger|	11	12
+|lol|	|laughing out loud|	6	9
+|Lol|	|laughing out loud|	6	9
+|MF|	|mother fucker|	6	13
+|lol|	|laughing out loud|	6	9
+|Idk|	|i don't know|	6	14
+|lol|	|laughing out loud|	6	9
+|lmfaooo|	|laughing my fucking ass off|	6	10
+|hw|	|homework|	10	8
+|cnt|	|can't|	8	2
+|OMG|	|oh my god|	6	14
+|OMG|	|oh my god|	6	14
+|OMG|	|oh my god|	6	14
+|OMG|	|oh my god|	6	14
+|OMG|	|oh my god|	6	14
+|niggas|	|niggers|	11	12
+|lol|	|laughing out loud|	6	9
+|Jk|	|just kidding|	6	9
+|Hapi|	|happy|	12	15
+|dat|	|that|	11	12
+|bouta|	|about to|	13	14
+|wit|	|with|	11	9
+|oomfs|	|one of my followers|	5	9
+|niggas|	|niggers|	11	12
+|lol|	|laughing out loud|	6	9
+|tho|	|though|	11	9
+|Lol|	|laughing out loud|	6	9
+|lol|	|laughing out loud|	6	9
+|Lol|	|laughing out loud|	6	9
+|Hapi|	|happy|	12	15
+|abt|	|about|	10	9
+|Tf|	|the fuck|	6	14
+|hbu|	|how about you|	6	14
+|btw|	|by the way|	6	14
+|idk|	|i don't know|	6	14
+|omg|	|oh my god|	6	14
+|lol|	|laughing out loud|	6	9
+|lol|	|laughing out loud|	6	9
+|Dis|	|this|	11	12
+|wit|	|with|	11	9
+|btw|	|by the way|	6	14
+|lmaoo|	|laughing my ass off|	6	14
+|OMG|	|oh my god|	6	14
+|VAS|	|was|	1	12
+|omg|	|oh my god|	6	14
+|tbh|	|to be honest|	6	9
+|lol|	|laughing out loud|	6	9
+|Lol|	|laughing out loud|	6	9
+|MLB|	|major league baseball|	6	9
+|lol|	|laughing out loud|	6	9
+|lol|	|laughing out loud|	6	9
+|smh|	|shaking my head|	6	9
+|lol|	|laughing out loud|	6	9
+|fr|	|for real|	6	14
+|lol|	|laughing out loud|	6	9
+|lol|	|laughing out loud|	6	9
+|plz|	|please|	13	8
+|ty|	|thank you|	6	14
+|Idk|	|i don't know|	6	14
+|MARKETWATCH|	|market watch|	5	14
+|BRUH|	|brother|	13	9
+|wuddup|	|what's up|	12	14
+|Lol|	|laughing out loud|	6	9
+|RT|	|retweet|	10	9
+|gon|	|gonna|	9	4
+|gon|	|gonna|	9	4
+|lmao|	|laughing my ass off|	6	9
+|sup|	|what's up|	13	2
+|wassup|	|what's up|	13	2
+|THEYRE|	|they're|	2	3
+|lol|	|laughing out loud|	6	9
+|colour|	|color|	3	7
+|wid|	|with|	11	15
+|Nigga|	|nigger|	11	12
+|idc|	|i don't care|	6	14
+|za|	|that|	13	12
+|Lol|	|laughing out loud|	6	9
+|n|	|and|	10	12
+|wateva|	|whatever|	12	13
+|cums|	|comes|	11	12
+|dats|	|that's|	12	2
+|jus|	|just|	13	9
+|dnt|	|don't|	8	2
+|dnt|	|doesn't|	10	2
+|ur|	|your|	11	12
+|wat|	|what|	11	1
+|thou|	|though|	11	12
+|Yu|	|you|	12	1
+|Labour|	|labor|	3	7
+|Jfb|	|jesus fucking bale|	6	10
+|dnt|	|don't|	8	2
+|knw|	|know|	8	1
+|ur|	|your|	11	12
+|bruh|	|brother|	13	9
+|Wht|	|what|	8	1
+|ur|	|your|	11	12
+|ur|	|your|	11	12
+|Onew|	|one|	1	12
+|otha|	|other|	12	11
+|lol|	|laughing out loud|	6	9
+|yuh|	|you|	13	12
+|yuh|	|you|	13	12
+|judgement|	|judgment|	3	7
+|lol|	|laughing out loud|	6	9
+|tbf|	|to be fair|	6	14
+|LOL|	|laughing out loud|	6	9
+|Lol|	|laughing out loud|	6	9
+|shat|	|shit|	15	1
+|smh|	|shaking my head|	6	9
+|ffs|	|for fuck's sake|	6	14
+|yea|	|you|	13	12
+|lol|	|laughing out loud|	6	9
+|nigga|	|nigger|	11	12
+|wat|	|what|	11	1
+|wit|	|with|	11	9
+|anyones|	|anyone|	1	7
+|niggas|	|niggers|	11	12
+|n|	|and|	10	12
+|wit|	|with|	11	9
+|niggas|	|niggers|	11	12
+|da|	|the|	12	11
+|Lmao|	|laughing my ass off|	6	9
+|nigga|	|nigger|	11	12
+|famly|	|family|	12	8
+|wtf|	|what the fuck|	6	14
+|wtf|	|what the fuck|	6	14
+|wtf|	|what the fuck|	6	14
+|wtf|	|what the fuck|	6	14
+|wtf|	|what the fuck|	6	14
+|wtf|	|what the fuck|	6	14
+|o|	|on|	1	9
+|dat|	|that|	11	12
+|hav|	|have|	12	15
+|dia|	|their|	15	3
+|lol|	|laughing out loud|	6	9
+|n|	|and|	10	12
+|TURNT|	|turned|	10	12
+|Lol|	|laughing out loud|	6	9
+|woulda|	|would have|	13	5
+|woulda|	|would have|	13	5
+|lmao|	|laughing my ass off|	6	9
+|cuh|	|see you|	11	12
+|idk|	|i don't know|	6	14
+|tbh|	|to be honest|	6	9
+|lol|	|laughing out loud|	6	9
+|lmao|	|laughing my ass off|	6	9
+|Lmk|	|let me know|	6	14
+|Wtf|	|what the fuck|	6	14
+|wtf|	|what the fuck|	6	14
+|OMG|	|oh my god|	6	14
+|YOURE|	|you're|	2	12
+|lul|	|laughing out loud|	6	9
+|tmr|	|tomorrow|	10	8
+|hw|	|homework|	10	8
+|w|	|with|	9	15
+|LOL|	|laughing out loud|	6	9
+|SMF|	|so much fun|	6	14
+|pepl|	|people|	10	8
+|lol|	|laughing out loud|	6	9
+|Nuff|	|enough|	11	12
+|favourite|	|favorite|	3	7
+|order|	||	4	7
+|donut|	|doughnut|	3	8
+|lol|	|laughing out loud|	6	9
+|yeh|	|yeah|	12	8
+|Ilysm|	|i love you so much|	6	9
+|TIX|	|tickets|	13	10
+|ctfu|	|cracking the fuck up|	6	9
+|Wats|	|what's|	11	2
+|wit|	|with|	11	9
+|da|	|that|	13	11
+|lol|	|laughing out loud|	6	9
+|lmap|	|leave me alone please|	6	9
+|realise|	|realize|	3	1
+|ty|	|thank you|	6	14
+|lol|	|laughing out loud|	6	9
+|ty|	|thank you|	6	14
+|n|	|and|	10	12
+|lol|	|laughing out loud|	6	9
+|b|	|be|	12	15
+|w|	|with|	9	15
+|af|	|as fuck|	6	14
+|ull|	|you will|	13	14
+|icant|	|i can't|	5	2
+|abt|	|about|	10	9
+|mah|	|my|	13	15
+|b|	|be|	12	15
+|DM|	|direct message|	6	9
+|wada|	|water|	12	15
+|chu|	|you|	13	12
