@@ -6,13 +6,12 @@ python3 freqbaseline.py ./Data/Owoputi/owoputi.train+dev ./Data/Owoputi/owoputi.
 
 python3 simplebaseline.py ./Data/Owoputi/owoputi.train+dev ./Data/Owoputi/owoputi.test -r 
 ```
-To run the classifier:
-Results:
+To run the classifier for results:
 ```
 python3 classifier.py ./Data/Owoputi/owoputi.train+dev ./Data/Owoputi/owoputi.test -r
 ```
 
-Error Analysis:
+T run the classifier for error analysis:
 ```
 python3 classifier.py ./Data/Owoputi/owoputi.train+dev ./Data/Owoputi/owoputi.test -a 
 ```
