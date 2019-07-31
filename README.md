@@ -1,4 +1,7 @@
-This contains all the files to reproduce the results from my thesis research.
+This contains all the files to reproduce the results from my thesis research. 
+
+Except for the word embeddings file w2v.bin which can be found on the rug server in /net/shared/rob/wessel 
+
 
 To run the baselines:
 ```
