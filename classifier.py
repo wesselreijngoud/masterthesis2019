@@ -212,85 +212,6 @@ def embeddingFeat(orig, cor):
     return simscorearray
 
 
-def min_edit_script(source, target, allow_copy=False):
-    a = [[(len(source) + len(target) + 1, None)] * (len(target) + 1)
-         for _ in range(len(source) + 1)]
-    for i in range(0, len(source) + 1):
-        for j in range(0, len(target) + 1):
-            if i == 0 and j == 0:
-                a[i][j] = (0, "")
-            else:
-                if allow_copy and i and j and source[i - 1] == target[j - 1] and a[i - 1][j - 1][0] < a[i][j][0]:
-                    a[i][j] = (a[i - 1][j - 1][0], a[i - 1][j - 1][1] + "→")
-                if i and a[i - 1][j][0] < a[i][j][0]:
-                    a[i][j] = (a[i - 1][j][0] + 1, a[i - 1][j][1] + "-")
-                if j and a[i][j - 1][0] < a[i][j][0]:
-                    a[i][j] = (a[i][j - 1][0] + 1, a[i][j - 1]
-                               [1] + "+" + target[j - 1])
-    return a[-1][-1][1]
-
-
-def gen_lemma_rule(orig, cor, allow_copy=False):
-
-
-    form = orig.strip("|")
-    lemma = cor.strip("|")
-
-    previous_case = -1
-    lemma_casing = ""
-    for i, c in enumerate(lemma):
-        case = "↑" if c.lower() != c else "↓"
-        if case != previous_case:
-            lemma_casing += "{}{}{}".format("¦" if lemma_casing else "",
-                                            case, i if i <= len(lemma) // 2 else i - len(lemma))
-        previous_case = case
-    lemma = lemma.lower()
-
-    best, best_form, best_lemma = 0, 0, 0
-    for l in range(len(lemma)):
-        for f in range(len(form)):
-            cpl = 0
-            while f + cpl < len(form) and l + cpl < len(lemma) and form[f + cpl] == lemma[l + cpl]:
-                cpl += 1
-            if cpl > best:
-                best = cpl
-                best_form = f
-                best_lemma = l
-
-    rule = lemma_casing + ";"
-    if not best:
-        rule += "a" + lemma
-        
-    else:
-        rule += "d{} ¦ {}".format(
-            min_edit_script(form[:best_form], lemma[:best_lemma], allow_copy),
-            min_edit_script(form[best_form + best:],
-                            lemma[best_lemma + best:], allow_copy),
-        )
-        
-            
-    return lemma, form , rule
-        
-
-def runLemma(orig,cor, orig2,cor2):
-    lijst = []
-    lijst2 = []
-    for i,t in zip(orig,cor):
-        form,lemma,rule = gen_lemma_rule(i.lower(),t.lower())
-        lijst.append(rule)
-    for m,n in zip(orig2,cor2):
-        form1,lemma1,rule1 = gen_lemma_rule(m.lower(),n.lower())
-        lijst2.append(rule1)
-
-    hasha = HashingVectorizer(n_features=1**20)
-    hasha = hasha.fit(lijst)
-    X = hasha.transform(lijst).toarray()
-    Y = hasha.transform(lijst2).toarray()
-
-    return X,Y
-
-
-
 def runAllFeatures(orig, cor):
     apostrophe = containsApostrophe(orig, cor)
     spaces = containsSpaces(orig, cor)
@@ -347,11 +268,6 @@ if __name__ == '__main__':
         # RUN ALL FEATURE FUNCTIONS
         trainfeats = runAllFeatures(x_train_orig, x_train_cor)
         testfeats = runAllFeatures(x_test_orig, x_test_cor)
-
-        ######################################################################################
-
-        M , N = runLemma(x_train_orig,x_train_cor,x_test_orig,x_test_cor)
-
 
         ######################################################################################
 
