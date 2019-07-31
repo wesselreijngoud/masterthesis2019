@@ -1,0 +1,26 @@
+ORIGINAL	NORMALISED	CORRECT LABEL	PREDICTED LABEL
+|ill|	|I will|	2	14
+|btw|	|between|	8	15
+|W|	|west|	6	15
+|no|	|know|	12	1
+|culd|	|could|	12	1
+|b|	|be|	12	15
+|Neway|	|anyway|	12	1
+|dy|	|dye|	3	15
+|curiousity|	|curiosity|	3	7
+|wuz|	|whats|	12	13
+|shulda|	|should have|	14	5
+|tol|	|told|	1	9
+|b|	|be|	12	15
+|somewre|	|somewhere|	1	12
+|bot|	|both|	1	15
+|anyones|	|anyone has|	12	14
+|appology|	|apology|	1	7
+|happend|	|happened|	1	8
+|b|	|be|	12	15
+|wht|	|what|	8	1
+|tard|	|retard|	10	1
+|to|	|too|	3	9
+|w/in|	|within|	15	10
+|~10k|	|10k|	15	7
+|yrs|	|years|	8	9
