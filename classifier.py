@@ -280,11 +280,11 @@ if __name__ == '__main__':
         # TRAIN MATRIX
         trainxorig = vectforig.transform(x_train_orig).toarray()
         trainxcor = vectfcor.transform(x_train_cor).toarray()
-        comb = np.column_stack((trainxorig, trainxcor, trainfeats, M))
+        comb = np.column_stack((trainxorig, trainxcor, trainfeats))
         # TEST MATRIX
         testxorig = vectforig.transform(x_test_orig).toarray()
         testxcor = vectfcor.transform(x_test_cor).toarray()
-        testcomb = np.column_stack((testxorig, testxcor, testfeats, N))
+        testcomb = np.column_stack((testxorig, testxcor, testfeats))
 
         # TRAIN ON TRAINSET
         clf.fit(comb, y_train)
