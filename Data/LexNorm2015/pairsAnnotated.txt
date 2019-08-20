@@ -1,0 +1,1204 @@
+328 	 u 	->	 you 11
+272 	 lol 	->	 laughing out loud 6
+181 	 im 	->	 i'm 2
+92 	 dont 	->	 don't 2
+67 	 omg 	->	 oh my god 6
+57 	 nigga 	->	 nigger 12
+52 	 niggas 	->	 niggers 12
+51 	 lmao 	->	 laughing my ass off 6
+47 	 n 	->	 and 12
+43 	 pls 	->	 please 8
+36 	 idk 	->	 i don't know 6
+35 	 lil 	->	 little 12
+33 	 ur 	->	 your 11
+33 	 thats 	->	 that's 2
+31 	 bruh 	->	 brother 12
+30 	 aint 	->	 ain't 2
+29 	 rt 	->	 retweet 10
+26 	 wtf 	->	 what the fuck 6
+25 	 ppl 	->	 people 8
+25 	 ima 	->	 i'm going to 12
+23 	 yall 	->	 y'all 2
+22 	 r 	->	 are 11
+22 	 d 	->	 the 11
+22 	 cuz 	->	 because 12
+21 	 smh 	->	 shaking my head 6
+21 	 bout 	->	 about 11
+19 	 didnt 	->	 didn't 2
+18 	 tryna 	->	 trying to 12
+18 	 imma 	->	 i'm going to 12
+18 	 gon 	->	 gonna 9
+17 	 wit 	->	 with 11
+17 	 tho 	->	 though 11
+17 	 b 	->	 be 11
+16 	 tbh 	->	 to be honest 6
+16 	 ive 	->	 i've 2
+16 	 goin 	->	 going 12
+16 	 fav 	->	 favorite 9
+16 	 dat 	->	 that 11
+16 	 cause 	->	 because 10
+16 	 bc 	->	 because 10
+15 	 ya 	->	 you 12
+15 	 idc 	->	 i don't care 6
+14 	 2 	->	 to 11
+13 	 lmfao 	->	 laughing my fucking ass off 6
+13 	 fuckin 	->	 fucking 12
+13 	 favourite 	->	 favorite 3
+13 	 da 	->	 the 12
+12 	 ur 	->	 you're 11
+12 	 tha 	->	 the 12
+12 	 congrats 	->	 congratulations 9
+12 	 cant 	->	 can't 2
+11 	 yo 	->	 you 10
+11 	 w 	->	 with 9
+11 	 theyre 	->	 they're 2
+11 	 pic 	->	 picture 9
+11 	 nd 	->	 and 8
+11 	 lmaoo 	->	 laughing my ass off 6
+11 	 kno 	->	 know 10
+11 	 jfb 	->	 jesus fucking bale 6
+11 	 gettin 	->	 getting 12
+11 	 finna 	->	 going to 12
+10 	 omfg 	->	 oh my fucking god 6
+10 	 lookin 	->	 looking 12
+10 	 dressin 	->	 dressing 12
+10 	 dm 	->	 direct message 6
+9 	 wat 	->	 what 11
+9 	 tf 	->	 the fuck 6
+9 	 ilysm 	->	 i love you so much 6
+9 	 ill 	->	 i'll 2
+9 	 feelin 	->	 feeling 12
+9 	 dis 	->	 this 11
+8 	 yo 	->	 your 9
+8 	 em 	->	 them 12
+8 	 doin 	->	 doing 12
+8 	 bro 	->	 brother 9
+8 	 4 	->	 for 11
+7 	 yu 	->	 you 11
+7 	 yea 	->	 yeah 11
+7 	 soo 	->	 so 7
+7 	 plz 	->	 please 12
+7 	 naw 	->	 now 11
+7 	 its 	->	 it's 2
+7 	 ily 	->	 i love you 6
+7 	 doesnt 	->	 doesn't 2
+7 	 dnt 	->	 don't 8
+7 	 af 	->	 as fuck 6
+6 	 woulda 	->	 would have 12
+6 	 whos 	->	 who's 2
+6 	 wasnt 	->	 wasn't 2
+6 	 vid 	->	 video 9
+6 	 thx 	->	 thanks 12
+6 	 tht 	->	 that 8
+6 	 theres 	->	 there's 2
+6 	 talkin 	->	 talking 12
+6 	 rn 	->	 right now 6
+6 	 knw 	->	 know 8
+6 	 isnt 	->	 isn't 2
+6 	 ig 	->	 instagram 10
+6 	 hella 	->	 hell of a lot of 12
+6 	 alot 	->	 a lot 5
+6 	 abt 	->	 about 10
+5 	 youre 	->	 you're 2
+5 	 wid 	->	 with 11
+5 	 watchin 	->	 watching 12
+5 	 txt 	->	 text 8
+5 	 thinkin 	->	 thinking 12
+5 	 sayin 	->	 saying 12
+5 	 nothin 	->	 nothing 12
+5 	 lls 	->	 laughing like shit 6
+5 	 jst 	->	 just 8
+5 	 hve 	->	 have 8
+5 	 hes 	->	 he's 2
+5 	 followback 	->	 follow back 5
+5 	 dms 	->	 direct messages 6
+5 	 dats 	->	 that's 11
+5 	 bday 	->	 birthday 10
+5 	 arent 	->	 aren't 2
+4 	 y 	->	 why 11
+4 	 youu 	->	 you 7
+4 	 wut 	->	 what 12
+4 	 wouldnt 	->	 wouldn't 2
+4 	 wht 	->	 what 8
+4 	 urself 	->	 yourself 11
+4 	 ty 	->	 thank you 6
+4 	 srsly 	->	 seriously 8
+4 	 soooo 	->	 so 7
+4 	 playin 	->	 playing 12
+4 	 oomf 	->	 one of my followers 6
+4 	 nighas 	->	 niggers 12
+4 	 neighbour 	->	 neighbor 3
+4 	 mins 	->	 minutes 10
+4 	 ma 	->	 my 12
+4 	 luv 	->	 love 12
+4 	 longway 	->	 long way 5
+4 	 lolz 	->	 laughing out loud 6
+4 	 learnt 	->	 learned 11
+4 	 labour 	->	 labor 3
+4 	 justunfollow 	->	 just unfollow 5
+4 	 jus 	->	 just 12
+4 	 jk 	->	 just kidding 6
+4 	 ik 	->	 i know 6
+4 	 hw 	->	 homework 10
+4 	 havent 	->	 haven't 2
+4 	 gona 	->	 gonna 10
+4 	 frfr 	->	 for real for real 6
+4 	 freakin 	->	 freaking 12
+4 	 favs 	->	 favorites 10
+4 	 cus 	->	 because 12
+4 	 c 	->	 see 11
+4 	 comin 	->	 coming 12
+4 	 colour 	->	 color 3
+4 	 chillin 	->	 chilling 12
+4 	 bouta 	->	 about to 12
+4 	 bck 	->	 back 8
+4 	 bbm 	->	 blackberry messenger 6
+4 	 b4 	->	 before 11
+3 	 yuh 	->	 you 12
+3 	 whut 	->	 what 12
+3 	 whats 	->	 what's 2
+3 	 whatchu 	->	 what you 12
+3 	 wen 	->	 when 11
+3 	 u 	->	 your 12
+3 	 tweetin 	->	 tweeting 12
+3 	 thru 	->	 through 11
+3 	 tellin 	->	 telling 12
+3 	 talkn 	->	 talking 12
+3 	 soff 	->	 soft 1
+3 	 smth 	->	 something 10
+3 	 shoutout 	->	 shout out 5
+3 	 runnin 	->	 running 12
+3 	 rockin 	->	 rocking 12
+3 	 pics 	->	 pictures 9
+3 	 perf 	->	 perfect 9
+3 	 peewee 	->	 pee wee 5
+3 	 nxt 	->	 next 8
+3 	 nvm 	->	 never mind 6
+3 	 nomore 	->	 no more 5
+3 	 na 	->	 no 12
+3 	 nah 	->	 no 12
+3 	 momma 	->	 mama 12
+3 	 mlb 	->	 major league baseball 6
+3 	 mfs 	->	 mother fuckers 6
+3 	 mf 	->	 mother fucker 6
+3 	 meth 	->	 methamphetamine 9
+3 	 mee 	->	 me 7
+3 	 lololol 	->	 laughing out loud 6
+3 	 lolol 	->	 laughing out loud 6
+3 	 lik 	->	 like 1
+3 	 layin 	->	 laying 12
+3 	 juss 	->	 just 12
+3 	 holdin 	->	 holding 12
+3 	 hmu 	->	 hit me up 6
+3 	 harrystyles 	->	 harry styles 5
+3 	 gurl 	->	 girl 11
+3 	 gud 	->	 good 11
+3 	 fxck 	->	 fuck 12
+3 	 fuk 	->	 fuck 11
+3 	 fr 	->	 for real 6
+3 	 fone 	->	 phone 11
+3 	 dun 	->	 don't 12
+3 	 dogg 	->	 dog 1
+3 	 dey 	->	 they 11
+3 	 dem 	->	 them 11
+3 	 ctfu 	->	 cracking the fuck up 6
+3 	 coz 	->	 because 12
+3 	 couldnt 	->	 couldn't 2
+3 	 convo 	->	 conversation 9
+3 	 boutta 	->	 about to 12
+3 	 bffs 	->	 best friends forever 6
+3 	 bf 	->	 boyfriend 6
+3 	 bestfriends 	->	 best friends 5
+3 	 badass 	->	 bad ass 5
+2 	 yr 	->	 you're 12
+2 	 youuu 	->	 you 7
+2 	 your 	->	 you're 3
+2 	 youll 	->	 you'll 2
+2 	 yesss 	->	 yes 7
+2 	 wuddup 	->	 what's up 11
+2 	 wth 	->	 with 8
+2 	 wth 	->	 what the hell 6
+2 	 wrk 	->	 work 8
+2 	 wrked 	->	 worked 8
+2 	 writin 	->	 writing 12
+2 	 wont 	->	 won't 2
+2 	 woah 	->	 wow 11
+2 	 witchu 	->	 with you 11
+2 	 whn 	->	 when 8
+2 	 whippin 	->	 whipping 12
+2 	 wats 	->	 what's 11
+2 	 waitin 	->	 waiting 12
+2 	 v 	->	 very 9
+2 	 vids 	->	 videos 9
+2 	 u 	->	 you're 12
+2 	 txted 	->	 texted 8
+2 	 turnt 	->	 turned 11
+2 	 tryn 	->	 trying 11
+2 	 tryin 	->	 trying 12
+2 	 trippin 	->	 tripping 12
+2 	 tommorow 	->	 tomorrow 3
+2 	 tmrw 	->	 tomorrow 8
+2 	 tmr 	->	 tomorrow 10
+2 	 tl 	->	 timeline 10
+2 	 tix 	->	 tickets 12
+2 	 tix 	->	 ticket 12
+2 	 thts 	->	 that's 8
+2 	 throught 	->	 through 1
+2 	 theatre 	->	 theater 3
+2 	 thang 	->	 thing 12
+2 	 takin 	->	 taking 12
+2 	 t 	-> 4
+2 	 swimmin 	->	 swimming 12
+2 	 sumn 	->	 something 12
+2 	 sum1 	->	 someone 11
+2 	 spirite 	->	 spirit 1
+2 	 smokin 	->	 smoking 12
+2 	 sittin 	->	 sitting 12
+2 	 shutup 	->	 shut up 5
+2 	 shld 	->	 should 8
+2 	 savin 	->	 saving 12
+2 	 rumours 	->	 rumors 3
+2 	 r 	->	 rest 9
+2 	 rite 	->	 right 11
+2 	 ridin 	->	 riding 12
+2 	 realise 	->	 realize 3
+2 	 prolly 	->	 probably 12
+2 	 programme 	->	 program 3
+2 	 pre 	->	 preorder 9
+2 	 p 	->	 peace 9
+2 	 poppin 	->	 popping 12
+2 	 pmsl 	->	 pissing myself laughing 6
+2 	 pik 	->	 pick 11
+2 	 photobomb 	->	 photo bomb 5
+2 	 order 	-> 4
+2 	 openfollow 	->	 open follow 5
+2 	 oomfs 	->	 one of my followers 5
+2 	 o 	->	 oh 11
+2 	 ol 	->	 old 12
+2 	 ohmygod 	->	 oh my god 5
+2 	 nyt 	->	 new york times 6
+2 	 nt 	->	 not 8
+2 	 neva 	->	 never 12
+2 	 nah 	->	 now 12
+2 	 mi 	->	 my 11
+2 	 mi 	->	 me 11
+2 	 mep 	->	 map 11
+2 	 mbf 	->	 must be following 6
+2 	 marketwatch 	->	 market watch 5
+2 	 m 	->	 am 8
+2 	 makin 	->	 making 12
+2 	 mah 	->	 my 12
+2 	 lyk 	->	 like 11
+2 	 lols 	->	 laughing out loud 6
+2 	 lmaooo 	->	 laughing my ass off 6
+2 	 livin 	->	 living 12
+2 	 lic 	->	 license 9
+2 	 leavin 	->	 leaving 12
+2 	 lastnight 	->	 last night 5
+2 	 kys 	->	 kill youself 6
+2 	 infact 	->	 in fact 5
+2 	 il 	->	 i'll 2
+2 	 ikr 	->	 i know right 6
+2 	 i 	->	 in 1
+2 	 ight 	->	 alright 11
+2 	 id 	->	 i'd 2
+2 	 hw 	->	 how 8
+2 	 humour 	->	 humor 3
+2 	 hav 	->	 have 11
+2 	 hatin 	->	 hating 12
+2 	 hapi 	->	 happy 11
+2 	 goodmorning 	->	 good morning 5
+2 	 fwm 	->	 fuck with me 6
+2 	 fux 	->	 fuck 11
+2 	 fu 	->	 fuck 9
+2 	 fuckn 	->	 fucking 12
+2 	 forreal 	->	 for real 5
+2 	 follback 	->	 follow back 10
+2 	 foh 	->	 fuck outa here 6
+2 	 fck 	->	 fuck 8
+2 	 fb 	->	 facebook 10
+2 	 fav 	->	 favor 9
+2 	 fangirl 	->	 fan girl 5
+2 	 fallin 	->	 falling 12
+2 	 fak 	->	 fuck 12
+2 	 esp 	->	 especially 9
+2 	 dumbass 	->	 dumb ass 5
+2 	 drugz 	->	 drugs 11
+2 	 droppin 	->	 dropping 12
+2 	 dosent 	->	 doesn't 1
+2 	 dieing 	->	 dying 3
+2 	 decor 	->	 decoration 9
+2 	 dd 	->	 did 1
+2 	 dam 	->	 damn 11
+2 	 cum 	->	 come 11
+2 	 cnt 	->	 can't 8
+2 	 choco 	->	 chocolate 9
+2 	 childrens 	->	 children 3
+2 	 bxtch 	->	 bitch 12
+2 	 btw 	->	 by the way 6
+2 	 bt 	->	 but 8
+2 	 brah 	->	 brother 12
+2 	 bff 	->	 best friend forever 6
+2 	 bestfriend 	->	 best friend 5
+2 	 bein 	->	 being 12
+2 	 bcz 	->	 because 12
+2 	 babe 	->	 baby 12
+2 	 ayebody 	->	 anybody 1
+2 	 awks 	->	 awkwards 9
+2 	 askin 	->	 asking 12
+2 	 asap 	->	 as soon as possible 6
+2 	 allways 	->	 always 3
+1 	 za 	->	 that 12
+1 	 yy 	->	 why 11
+1 	 y 	->	 your 9
+1 	 yur 	->	 your 11
+1 	 yurself 	->	 yourself 11
+1 	 yui 	->	 you 1
+1 	 ytd 	->	 yesterday 10
+1 	 yowapedal 	->	 your pedal 5
+1 	 youve 	->	 you've 2
+1 	 youtbe 	->	 youtube 1
+1 	 youo 	->	 you 1
+1 	 yor 	->	 your 12
+1 	 yolo 	->	 you only live once 6
+1 	 ym 	->	 my 1
+1 	 yiu 	->	 you 11
+1 	 yisus 	->	 jesus 11
+1 	 yh 	->	 yeah 8
+1 	 yhu 	->	 you 11
+1 	 yess 	->	 yes 7
+1 	 yessss 	->	 yes 7
+1 	 yessssiiiirrrrr 	->	 yes sir 7
+1 	 yesshhh 	->	 yes 7
+1 	 yeshh 	->	 yes 7
+1 	 yer 	->	 you're 11
+1 	 yellowcard 	->	 yellow card 5
+1 	 yellin 	->	 yelling 12
+1 	 yeh 	->	 yeah 11
+1 	 yea 	->	 you 12
+1 	 yeaa 	->	 yes 12
+1 	 ya 	->	 your 12
+1 	 yas 	->	 yes 11
+1 	 yass 	->	 yes 11
+1 	 yaoipedal 	->	 your pedal 13
+1 	 yah 	->	 you 12
+1 	 y 	-> 4
+1 	 xf 	->	 x factor 6
+1 	 wyd 	->	 what you doing 6
+1 	 wud 	->	 would 11
+1 	 wrry 	->	 worry 8
+1 	 wrre 	->	 were 1
+1 	 wrng 	->	 wrong 8
+1 	 wrd 	->	 word 8
+1 	 woyld 	->	 would 1
+1 	 wos 	->	 was 1
+1 	 workk 	->	 work 7
+1 	 wnt 	->	 want 8
+1 	 wnts 	->	 wants 8
+1 	 wld 	->	 would 8
+1 	 wk 	->	 week 8
+1 	 wkeend 	->	 weekend 1
+1 	 wil 	->	 will 1
+1 	 wif 	->	 with 11
+1 	 whyy 	->	 why 7
+1 	 wh 	->	 what 9
+1 	 whr 	->	 where 8
+1 	 whoopin 	->	 whooping 12
+1 	 whithout 	->	 without 1
+1 	 whiteboy 	->	 white boy 5
+1 	 whisky 	->	 whiskey 3
+1 	 whet 	->	 what 1
+1 	 whatz 	->	 what is 12
+1 	 whattt 	->	 what 7
+1 	 whatdoiwear 	->	 what do i wear 5
+1 	 whataburger 	->	 what a burger 5
+1 	 whap 	->	 what's up 12
+1 	 wes 	->	 was 11
+1 	 wer 	->	 where 11
+1 	 were 	->	 wear 11
+1 	 wellllll 	->	 well 7
+1 	 weiiiiird 	->	 weird 7
+1 	 weeknd 	->	 weekend 8
+1 	 webside 	->	 website 11
+1 	 wea 	->	 where are 10
+1 	 wearr 	->	 wear 1
+1 	 wearin 	->	 wearing 12
+1 	 wdlands 	->	 woodlands 8
+1 	 wcd 	->	 what you doing 6
+1 	 wbu 	->	 what about you 6
+1 	 wayy 	->	 way 7
+1 	 watz 	->	 what's 11
+1 	 wateva 	->	 whatever 12
+1 	 watcha 	->	 what you 12
+1 	 wassup 	->	 what's up 12
+1 	 warmin 	->	 warming 12
+1 	 waow 	->	 wow 12
+1 	 wantin 	->	 wanting 12
+1 	 wann 	->	 wanna 1
+1 	 wallin 	->	 walling 12
+1 	 walkoff 	->	 walk off 5
+1 	 wah 	->	 working at home 6
+1 	 wahat 	->	 what 1
+1 	 wae 	->	 why 11
+1 	 waddup 	->	 what's up 12
+1 	 wada 	->	 water 12
+1 	 waab 	->	 weak as a bitch 6
+1 	 waaay 	->	 way 7
+1 	 w8 	->	 wait 11
+1 	 w 	-> 4
+1 	 voy 	->	 boy 1
+1 	 viru 	->	 virus 1
+1 	 ville 	->	 village 12
+1 	 ve 	->	 have 12
+1 	 vas 	->	 was 1
+1 	 vag 	->	 vagina 9
+1 	 ut 	->	 you too 11
+1 	 usa 	->	 use 1
+1 	 ur 	->	 you 12
+1 	 upto 	->	 up to 5
+1 	 upp 	->	 up 7
+1 	 unkown 	->	 unknown 1
+1 	 unis 	->	 universities 9
+1 	 ultraviolence 	->	 ultra violence 5
+1 	 ull 	->	 you will 12
+1 	 tysm 	->	 thank you so much 6
+1 	 txtin 	->	 texting 12
+1 	 tu 	->	 to you 11
+1 	 turnup 	->	 turn up 5
+1 	 tunee 	->	 tune 6
+1 	 tue 	->	 tuesday 9
+1 	 t 	->	 to 8
+1 	 ttatt 	->	 the truth about the truth 6
+1 	 trynna 	->	 trying to 12
+1 	 tooo 	->	 too 7
+1 	 tooooooo 	->	 too 7
+1 	 tonite 	->	 tonight 11
+1 	 tomorro 	->	 tomorrow 11
+1 	 tomar 	->	 tomorrow 12
+1 	 todays 	->	 today's 2
+1 	 todays 	->	 today 3
+1 	 tmw 	->	 tomorrow 10
+1 	 tlkn 	->	 talking 10
+1 	 ting 	->	 thing 11
+1 	 til 	->	 till 1
+1 	 tickt 	->	 ticket 10
+1 	 tiard 	->	 tired 11
+1 	 thz 	->	 thanks 12
+1 	 thys 	->	 there's 1
+1 	 thx 	->	 thank 12
+1 	 thwre 	->	 there 1
+1 	 thu 	->	 thursday 9
+1 	 thryyre 	->	 they're 1
+1 	 thr 	->	 there 8
+1 	 throwg 	->	 throw 1
+1 	 thou 	->	 though 11
+1 	 thoee 	->	 though 11
+1 	 thnx 	->	 thanks 12
+1 	 thng 	->	 thing 8
+1 	 thingys 	->	 thing is 5
+1 	 thiiisss 	->	 this 7
+1 	 theyve 	->	 they've 2
+1 	 theyr 	->	 there 11
+1 	 theirselves 	->	 themselves 3
+1 	 thay 	->	 that 1
+1 	 thattt 	->	 that 7
+1 	 thas 	->	 that's 1
+1 	 thanx 	->	 thanks 11
+1 	 thankyou 	->	 thank you 5
+1 	 thanku 	->	 thank you 11
+1 	 thanksfor 	->	 thanks for 5
+1 	 thankiu 	->	 thank you 5
+1 	 thankin 	->	 thanking 12
+1 	 thankies 	->	 thanks 12
+1 	 tgi 	->	 thank god it's 6
+1 	 textin 	->	 texting 12
+1 	 telly 	->	 television 12
+1 	 tele 	->	 television 9
+1 	 teering 	->	 tearing 1
+1 	 tbt 	->	 throw back to 6
+1 	 tbf 	->	 to be fair 6
+1 	 ta 	->	 to 12
+1 	 taryn 	->	 trying 1
+1 	 talor 	->	 taylor 1
+1 	 sympathise 	->	 sympathize 3
+1 	 switc 	->	 switch 1
+1 	 sweetface 	->	 sweet face 5
+1 	 sweatin 	->	 sweating 12
+1 	 swearin 	->	 swearing 12
+1 	 swayin 	->	 swaying 12
+1 	 sware 	->	 swear 11
+1 	 sup 	->	 what's up 12
+1 	 sum 	->	 some 12
+1 	 sumone 	->	 someone 11
+1 	 summn 	->	 something 12
+1 	 summertime 	->	 summer time 5
+1 	 sugah 	->	 sugar 12
+1 	 suckin 	->	 sucking 12
+1 	 studyin 	->	 studying 12
+1 	 stressin 	->	 stressing 12
+1 	 str8 	->	 straight 11
+1 	 stp 	->	 stop 8
+1 	 stoopp 	->	 stop 7
+1 	 stoopid 	->	 stupid 11
+1 	 stillll 	->	 still 7
+1 	 stge 	->	 stage 8
+1 	 stfu 	->	 shut the fuck up 6
+1 	 stfd 	->	 sit the fuck down 6
+1 	 starvin 	->	 starving 12
+1 	 starin 	->	 staring 12
+1 	 standin 	->	 standing 12
+1 	 stainin 	->	 staining 12
+1 	 srry 	->	 sorry 8
+1 	 spyder 	->	 spider 11
+1 	 spongbob 	->	 spongebob 1
+1 	 spittin 	->	 spitting 12
+1 	 sped 	->	 speed 1
+1 	 southamerica 	->	 south america 5
+1 	 soundin 	->	 sounding 12
+1 	 soundcloud 	->	 sound cloud 5
+1 	 sorrry 	->	 sorry 1
+1 	 sorrrrrrrrrrrrry 	->	 sorry 7
+1 	 soooooo 	->	 so 7
+1 	 sonn 	->	 son 7
+1 	 songz 	->	 songs 11
+1 	 somtime 	->	 sometimes 12
+1 	 somthin 	->	 something 12
+1 	 soml 	->	 someone 12
+1 	 somethin 	->	 something 12
+1 	 some1 	->	 someone 11
+1 	 smyle 	->	 smile 11
+1 	 smf 	->	 so much fun 6
+1 	 smd 	->	 suck my dick 6
+1 	 slp 	->	 sleep 8
+1 	 slippin 	->	 sleeping 5
+1 	 slipin 	->	 sliping 12
+1 	 slindin 	->	 slinding 12
+1 	 slayy 	->	 kill 13
+1 	 skepta 	->	 sunglasses 13
+1 	 sitten 	->	 sitting 1
+1 	 sis 	->	 sister 9
+1 	 sim 	->	 seems 13
+1 	 similiar 	->	 similar 3
+1 	 signin 	->	 signing 12
+1 	 shyt 	->	 shit 11
+1 	 shxt 	->	 shit 12
+1 	 shuld 	->	 should 11
+1 	 shuit 	->	 shit 1
+1 	 showin 	->	 showing 12
+1 	 should've 	->	 should have 3
+1 	 shoulda 	->	 should have 12
+1 	 shot 	-> 4
+1 	 shoo 	->	 so 7
+1 	 shmit 	->	 shit 1
+1 	 shldnt 	->	 shouldn't 8
+1 	 shizz 	->	 shit 12
+1 	 shittin 	->	 shitting 12
+1 	 shitihsthiaht 	->	 shit 7
+1 	 shitb 	->	 shit 1
+1 	 shid 	->	 shit 11
+1 	 shat 	->	 shit 1
+1 	 shap 	->	 shape 13
+1 	 shakin 	->	 shaking 12
+1 	 sesh 	->	 session 12
+1 	 sep 	->	 september 9
+1 	 seperate 	->	 separate 3
+1 	 sence 	->	 sense 11
+1 	 sekret 	->	 secret 11
+1 	 seein 	->	 seeing 12
+1 	 sec 	->	 second 9
+1 	 screen 	->	 screenshot 9
+1 	 screamin 	->	 screaming 12
+1 	 scratchin 	->	 scratching 12
+1 	 schleep 	->	 sleep 11
+1 	 satnite 	->	 saturday night 11
+1 	 satin 	->	 saying 1
+1 	 sameee 	->	 same 7
+1 	 salud 	->	 salute 11
+1 	 sadest 	->	 saddest 1
+1 	 s 	-> 4
+1 	 ryt 	->	 right 11
+1 	 ryte 	->	 right 11
+1 	 runnn 	->	 run 7
+1 	 rumour 	->	 rumor 3
+1 	 rtwt 	->	 retweet 8
+1 	 rp 	->	 real people 6
+1 	 roflmao 	->	 rolling on floor laughing my ass off 6
+1 	 rmx 	->	 remix 8
+1 	 rlly 	->	 really 8
+1 	 rizky 	->	 risky 11
+1 	 riverwalk 	->	 river walk 5
+1 	 rip 	->	 rest in peace 6
+1 	 rightt 	->	 right 7
+1 	 rightnow 	->	 right now 5
+1 	 righ 	->	 right 1
+1 	 reveale 	->	 revealed 1
+1 	 repubs 	->	 republicans 9
+1 	 representin 	->	 representing 12
+1 	 reporte 	->	 reporter 1
+1 	 rememberin 	->	 remembering 12
+1 	 relatd 	->	 related 1
+1 	 reherseal 	->	 rehearsal 1
+1 	 rehersal 	->	 rehearsal 1
+1 	 redsox 	->	 red sox 5
+1 	 realised 	->	 realized 3
+1 	 rd 	->	 road 8
+1 	 quil 	->	 quill 13
+1 	 qtr 	->	 quarter 10
+1 	 q 	->	 question 9
+1 	 qld 	->	 queensland 10
+1 	 putos 	->	 photos 13
+1 	 pullin 	->	 pulling 12
+1 	 psh 	->	 push 8
+1 	 promotio 	->	 promotion 1
+1 	 probs 	->	 problems 9
+1 	 probs 	->	 probably 10
+1 	 prob 	->	 probably 9
+1 	 problema 	->	 problem 1
+1 	 primiere 	->	 premiere 11
+1 	 prez 	->	 president 9
+1 	 prev 	->	 previous 9
+1 	 pre 	->	 precalc 9
+1 	 preggo 	->	 pregnant 12
+1 	 prayin 	->	 praying 12
+1 	 pratice 	->	 practice 1
+1 	 ppls 	->	 people's 8
+1 	 pple 	->	 people 8
+1 	 ppe 	->	 people 10
+1 	 posible 	->	 possible 3
+1 	 poooollll 	->	 pool 7
+1 	 pleasee 	->	 please 7
+1 	 pleaseee 	->	 please 7
+1 	 pleaseeeee 	->	 please 7
+1 	 plc 	->	 picture 10
+1 	 pitc 	->	 pitcher 9
+1 	 pict 	->	 picture 9
+1 	 pickin 	->	 picking 12
+1 	 photobooth 	->	 photo booth 5
+1 	 performa 	->	 performance 9
+1 	 perfoming 	->	 performing 1
+1 	 pepul 	->	 people 11
+1 	 pepl 	->	 people 10
+1 	 peoples 	->	 people's 2
+1 	 peole 	->	 people 1
+1 	 pdx 	->	 portland 10
+1 	 payin 	->	 paying 12
+1 	 paty 	->	 party 1
+1 	 outttttt 	->	 out 7
+1 	 outta 	->	 out of 12
+1 	 otw 	->	 on the way 6
+1 	 otha 	->	 other 12
+1 	 o 	->	 so 1
+1 	 orrr 	->	 or 7
+1 	 oooooneee 	->	 one 7
+1 	 oookay 	->	 okay 7
+1 	 o 	->	 on 1
+1 	 o 	->	 off 9
+1 	 ony 	->	 only 1
+1 	 onew 	->	 one 1
+1 	 ona 	->	 on a 5
+1 	 omo 	->	 oh my 1
+1 	 omgg 	->	 oh my god 6
+1 	 oll 	->	 old 12
+1 	 ohmygad 	->	 oh my god 5
+1 	 ohhh 	->	 oh 7
+1 	 ohgosh 	->	 oh gosh 5
+1 	 ofcourse 	->	 of course 5
+1 	 ofc 	->	 of course 6
+1 	 obvi 	->	 obviously 9
+1 	 nw 	->	 no worries 6
+1 	 nw 	->	 now 10
+1 	 nun 	->	 nothing 12
+1 	 nuh 	->	 now 11
+1 	 nuh 	->	 know 11
+1 	 nuffin 	->	 nothing 11
+1 	 nuff 	->	 enough 11
+1 	 ntn 	->	 nothing 12
+1 	 nows 	->	 now is 5
+1 	 noo 	->	 no 7
+1 	 no 	->	 not 1
+1 	 no 	->	 know 11
+1 	 no1s 	->	 no one's 11
+1 	 nk 	->	 no kidding 6
+1 	 nite 	->	 night 11
+1 	 niqqa 	->	 nigger 11
+1 	 n 	->	 in 8
+1 	 nigjt 	->	 night 1
+1 	 nightbot 	->	 night bot 5
+1 	 niggra 	->	 nigger 12
+1 	 niggah 	->	 nigger 12
+1 	 niggaas 	->	 nigger 12
+1 	 niga 	->	 nigger 12
+1 	 nid 	->	 need 11
+1 	 ngl 	->	 not gonna lie 6
+1 	 nextday 	->	 next day 5
+1 	 nem 	->	 they 13
+1 	 neighbours 	->	 neighbors 3
+1 	 needto 	->	 need to 5
+1 	 nbd 	->	 no big deal 6
+1 	 naw 	->	 not 12
+1 	 n 	->	 at 13
+1 	 myselff 	->	 myself 7
+1 	 mybe 	->	 maybe 1
+1 	 mum 	->	 mom 12
+1 	 muh 	->	 mother 13
+1 	 movin 	->	 moving 12
+1 	 moslem 	->	 muslim 11
+1 	 mornin 	->	 morning 12
+1 	 moodbreaker 	->	 mood breaker 5
+1 	 moodboster 	->	 mood boster 5
+1 	 moodbooster 	->	 mood booster 5
+1 	 mommas 	->	 mamas 12
+1 	 mnl 	->	 my new love 6
+1 	 m 	->	 my 1
+1 	 missyou 	->	 miss you 5
+1 	 mis 	->	 miss 1
+1 	 min 	->	 minutes 9
+1 	 min 	->	 minute 9
+1 	 midd 	->	 middle 9
+1 	 microsofts 	->	 microsoft's 2
+1 	 mfss 	->	 mother fuckers 6
+1 	 mf 	->	 mother fuckers 6
+1 	 messin 	->	 messing 12
+1 	 meself 	->	 myself 12
+1 	 mesage 	->	 message 1
+1 	 merch 	->	 merchandise 9
+1 	 meetin 	->	 meeting 12
+1 	 mdm 	->	 madam 8
+1 	 marvellous 	->	 marvelous 3
+1 	 marri 	->	 marry 11
+1 	 mantabs 	->	 man tabs 5
+1 	 mane 	->	 man 1
+1 	 lyke 	->	 like 11
+1 	 lul 	->	 laughing out loud 6
+1 	 luk 	->	 luck 11
+1 	 luff 	->	 love 12
+1 	 lovley 	->	 lovely 11
+1 	 loveyou 	->	 love you 5
+1 	 lottle 	->	 lot 1
+1 	 los 	->	 las 1
+1 	 looove 	->	 love 7
+1 	 loooot 	->	 lot 7
+1 	 loooooool 	->	 laughing out loud 6
+1 	 looool 	->	 laughing out loud 6
+1 	 loool 	->	 laughing out loud 6
+1 	 lool 	->	 laughing out loud 6
+1 	 loml 	->	 love of my life 6
+1 	 lo 	->	 laughing out loud 6
+1 	 loce 	->	 love 1
+1 	 locc 	->	 lock 1
+1 	 lmk 	->	 let me know 6
+1 	 lmfaoooo 	->	 laughing my fucking ass off 6
+1 	 lmfaooo 	->	 laughing my fucking ass off 6
+1 	 lmap 	->	 leave me alone please 6
+1 	 lmaooooo 	->	 laughing my ass off 6
+1 	 l 	->	 laughing 9
+1 	 lightsticks 	->	 light sticks 5
+1 	 lightskin 	->	 light skin 5
+1 	 lifeee 	->	 life 7
+1 	 liek 	->	 like 1
+1 	 lettin 	->	 letting 12
+1 	 legt 	->	 left 1
+1 	 lefft 	->	 left 7
+1 	 layiii 	->	 layi 5
+1 	 laughin 	->	 laughing 12
+1 	 laughinf 	->	 laughing 1
+1 	 lang 	->	 long 13
+1 	 l 	-> 4
+1 	 kudve 	->	 could have 11
+1 	 kot 	->	 kingdom of trolls 6
+1 	 knooow 	->	 know 7
+1 	 kmsl 	->	 killing myself laughing 6
+1 	 kissn 	->	 kissing 10
+1 	 kinna 	->	 kinda 12
+1 	 kin 	->	 kind of 12
+1 	 kiddn 	->	 kidding 10
+1 	 kidd 	->	 kid 1
+1 	 kiddie 	->	 kidding 12
+1 	 keepin 	->	 keeping 12
+1 	 kdrama 	->	 drama 1
+1 	 kanibal 	->	 canibal 11
+1 	 k 	-> 4
+1 	 juz 	->	 just 12
+1 	 jukeboxx 	->	 jukebox 1
+1 	 judgin 	->	 judging 12
+1 	 judgement 	->	 judgment 3
+1 	 jokin 	->	 joking 12
+1 	 jn 	->	 in 1
+1 	 jazzys 	->	 jazzy's 2
+1 	 jackin 	->	 jacking 12
+1 	 isit 	->	 is it 5
+1 	 ish 	->	 shit 1
+1 	 is2g 	->	 i swear to god 6
+1 	 irl 	->	 in real life 6
+1 	 iont 	->	 i don't 5
+1 	 intip 	->	 in tip 5
+1 	 insta 	->	 instagram 9
+1 	 inspite 	->	 in spite 5
+1 	 insomina 	->	 insomnia 1
+1 	 inlove 	->	 in love 5
+1 	 infront 	->	 in front 5
+1 	 incase 	->	 in case 5
+1 	 imo 	->	 in my opinion 6
+1 	 im 	->	 i 1
+1 	 imbo 	->	 in my biased opinion 6
+1 	 ikno 	->	 i know 5
+1 	 iirc 	->	 if i recall correctly 6
+1 	 ii 	->	 it 1
+1 	 ihavnt 	->	 i haven't 5
+1 	 ifucking 	->	 i fucking 5
+1 	 idgaf 	->	 i don't give a fuck 6
+1 	 icymi 	->	 in case you missed it 6
+1 	 icant 	->	 i can't 5
+1 	 ibs 	->	 irritable bowel syndrome 6
+1 	 hype 	->	 happy 5
+1 	 hv 	->	 have 8
+1 	 hurtin 	->	 hurting 12
+1 	 humen 	->	 human 11
+1 	 huggin 	->	 hugging 12
+1 	 hsit 	->	 shit 1
+1 	 hs 	->	 has 8
+1 	 hrs 	->	 hours 8
+1 	 hott 	->	 hot 7
+1 	 homo 	->	 homosexual 9
+1 	 homee 	->	 home 7
+1 	 hoe 	->	 whore 12
+1 	 hoes 	->	 whores 12
+1 	 hoein 	->	 hoeing 12
+1 	 hk 	->	 hong kong 6
+1 	 hiz 	->	 his 11
+1 	 hittin 	->	 hitting 12
+1 	 hitt 	->	 hit 7
+1 	 hitlist 	->	 hit list 5
+1 	 highschool 	->	 high school 5
+1 	 hey 	->	 they 1
+1 	 heree 	->	 here 7
+1 	 hea 	->	 happily ever after 6
+1 	 headin 	->	 heading 12
+1 	 head 	->	 headache 9
+1 	 headd 	->	 headed 13
+1 	 headass 	->	 head ass 5
+1 	 hbu 	->	 how about you 6
+1 	 havr 	->	 have 1
+1 	 havnt 	->	 haven't 1
+1 	 haterz 	->	 haters 11
+1 	 hardeeeer 	->	 harder 7
+1 	 happyy 	->	 happy 7
+1 	 happylgovo 	->	 happy 1
+1 	 happpy 	->	 happy 7
+1 	 happenin 	->	 happening 12
+1 	 hafto 	->	 have to 11
+1 	 hackd 	->	 hacked 11
+1 	 h00y 	->	 hoot 12
+1 	 guydirectioners 	->	 guy directioners 5
+1 	 gunna 	->	 gonna 12
+1 	 guna 	->	 gonna 12
+1 	 gtfo 	->	 get the fuck out 6
+1 	 govt 	->	 government 10
+1 	 gov 	->	 government 9
+1 	 gospe 	->	 gospel 1
+1 	 gorgeousss 	->	 gorgeous 7
+1 	 goood 	->	 good 7
+1 	 good'o 	->	 good 12
+1 	 goodluck 	->	 good luck 5
+1 	 goodevening 	->	 good evening 5
+1 	 goodd 	->	 good 7
+1 	 gonnae 	->	 gonna 1
+1 	 goddamit 	->	 god damn it 5
+1 	 godbless 	->	 god bless 5
+1 	 gne 	->	 gonna 12
+1 	 gmorning 	->	 good morning 10
+1 	 gm 	->	 good morning 6
+1 	 givin 	->	 giving 12
+1 	 giveaway 	->	 give away 5
+1 	 giva 	->	 give a 5
+1 	 gim 	->	 give me 12
+1 	 ghad 	->	 glad 1
+1 	 gguide 	->	 guide 1
+1 	 g 	->	 girl 9
+1 	 gf 	->	 girlfriend 10
+1 	 getcha 	->	 get you 11
+1 	 gents 	->	 gentlemen 9
+1 	 gentille 	->	 gentle 11
+1 	 gemorning 	->	 good morning 12
+1 	 geez 	->	 jesus 11
+1 	 gdo 	->	 god 1
+1 	 gd 	->	 good 8
+1 	 gal 	->	 guy 12
+1 	 gagos 	->	 asshole 5
+1 	 fyck 	->	 fuck 1
+1 	 fwiw 	->	 for what it's worth 6
+1 	 fwit 	->	 fuck with 10
+1 	 fw 	->	 forward 10
+1 	 futur 	->	 future 1
+1 	 fuq 	->	 fuck 11
+1 	 funnyshit 	->	 funny shit 5
+1 	 fulfil 	->	 fulfill 3
+1 	 fuks 	->	 fucks 11
+1 	 fukk 	->	 fuck 7
+1 	 fuhh 	->	 fuck 1
+1 	 fuckz 	->	 fuck 12
+1 	 fuckbag 	->	 fucking bag 5
+1 	 fuckas 	->	 fuckers 12
+1 	 fucka 	->	 fuck 12
+1 	 fucjing 	->	 fucking 1
+1 	 fuccin 	->	 fucking 11
+1 	 fucc 	->	 fuck 11
+1 	 fuack 	->	 fuck 1
+1 	 ftw 	->	 for the win 6
+1 	 ft 	->	 featuring 10
+1 	 frnd 	->	 friend 8
+1 	 friggin 	->	 frigging 12
+1 	 fr 	->	 from 9
+1 	 freinds 	->	 friends 1
+1 	 foolin 	->	 fooling 12
+1 	 folllow 	->	 follow 1
+1 	 folbackk 	->	 follow back 5
+1 	 fnk 	->	 find 10
+1 	 fml 	->	 fuck my life 6
+1 	 flippin 	->	 flipping 12
+1 	 flexin 	->	 flexing 12
+1 	 flavour 	->	 flavor 3
+1 	 fkn 	->	 fucking 10
+1 	 fk 	->	 fuck 10
+1 	 fisrt 	->	 first 1
+1 	 finah 	->	 going to 12
+1 	 fina 	->	 going to 12
+1 	 filmz 	->	 film 5
+1 	 fightin 	->	 fighting 12
+1 	 f 	->	 fuck 9
+1 	 ffs 	->	 for fuck's sake 6
+1 	 ffn 	->	 farewell for now 6
+1 	 fett 	->	 fit 13
+1 	 feets 	->	 feet 3
+1 	 feeli 	->	 feeling 9
+1 	 feela 	->	 feels 1
+1 	 feckkk 	->	 fuck 7
+1 	 fckn 	->	 fucking 10
+1 	 fayo 	->	 for you 12
+1 	 fay 	->	 days 1
+1 	 favour 	->	 favorite 3
+1 	 favour 	->	 favor 3
+1 	 favo 	->	 favorite 9
+1 	 fav 	->	 favorites 9
+1 	 fatass 	->	 fat ass 5
+1 	 fansites 	->	 fan sites 5
+1 	 fanmeet 	->	 fan meet 5
+1 	 fanclub 	->	 fan club 5
+1 	 famly 	->	 family 11
+1 	 fakin 	->	 fucking 12
+1 	 fadin 	->	 fading 12
+1 	 fack 	->	 fuck 12
+1 	 faceeee 	->	 face 7
+1 	 evry1s 	->	 everyone's 11
+1 	 everythings 	->	 everything's 2
+1 	 everythang 	->	 everything 12
+1 	 everyones 	->	 everyone's 2
+1 	 everynight 	->	 every night 5
+1 	 every 	->	 ever 3
+1 	 eugh 	->	 enough 10
+1 	 enuhh 	->	 enough 12
+1 	 en 	->	 in 12
+1 	 en 	->	 and 11
+1 	 emosh 	->	 emotional 10
+1 	 emo 	->	 emotions 9
+1 	 e 	->	 is 5
+1 	 ef 	->	 fuck 12
+1 	 effing 	->	 fucking 12
+1 	 eatin 	->	 eating 12
+1 	 eachother 	->	 each other 5
+1 	 dyn 	->	 dying 11
+1 	 dwnld 	->	 download 8
+1 	 dwm 	->	 down 1
+1 	 dum 	->	 dumb 11
+1 	 drivin 	->	 driving 12
+1 	 drinkin 	->	 drinking 12
+1 	 dreamin 	->	 dreaming 12
+1 	 downgrding 	->	 downgrading 1
+1 	 dood 	->	 dude 11
+1 	 donut 	->	 doughnut 3
+1 	 dollarr 	->	 dollar 7
+1 	 doesnot 	->	 doesn't 2
+1 	 doesng 	->	 doesn't 1
+1 	 dnt 	->	 doesn't 10
+1 	 diy 	->	 do it yourself 6
+1 	 dixk 	->	 dick 12
+1 	 diss 	->	 this 11
+1 	 diss 	->	 disrespect 9
+1 	 dispicable 	->	 despicable 3
+1 	 discus 	->	 discuss 13
+1 	 dimsum 	->	 dim sum 5
+1 	 diggg 	->	 digging 9
+1 	 diffffff 	->	 different 9
+1 	 didn 	->	 didn't 9
+1 	 dia 	->	 their 13
+1 	 dey 	->	 their 11
+1 	 devs 	->	 developer 9
+1 	 dese 	->	 these 11
+1 	 defo 	->	 definitely 12
+1 	 definitley 	->	 definitely 1
+1 	 deffo 	->	 definitely 12
+1 	 deez 	->	 these 11
+1 	 deemm 	->	 damn 11
+1 	 dealin 	->	 dealing 12
+1 	 ddnt 	->	 didn't 8
+1 	 dayy 	->	 day 7
+1 	 dayum 	->	 damn 11
+1 	 datpiff 	->	 the piff 5
+1 	 da 	->	 that 12
+1 	 dass 	->	 that's 11
+1 	 darlin 	->	 darling 12
+1 	 dafuq 	->	 the fuck 11
+1 	 cying 	->	 crying 1
+1 	 cuzz 	->	 because 12
+1 	 cuteeee 	->	 cute 7
+1 	 cutee 	->	 cute 7
+1 	 custa 	->	 custand 9
+1 	 cussin 	->	 cussing 12
+1 	 cuss 	->	 because 11
+1 	 cusine 	->	 cuisine 11
+1 	 cums 	->	 comes 11
+1 	 culd 	->	 could 11
+1 	 cuh 	->	 see you 11
+1 	 cuddlez 	->	 cuddles 11
+1 	 cryin 	->	 crying 12
+1 	 crk 	->	 crack 10
+1 	 creekview 	->	 creek view 5
+1 	 craist 	->	 christ 11
+1 	 craic 	->	 crack 1
+1 	 counselling 	->	 counseling 3
+1 	 could've 	->	 could have 3
+1 	 cos 	->	 because 12
+1 	 coolin 	->	 cooling 12
+1 	 conversate 	->	 converse 3
+1 	 congratz 	->	 congratulations 9
+1 	 complaing 	->	 complaining 1
+1 	 comes 	-> 4
+1 	 comeing 	->	 coming 3
+1 	 collcted 	->	 collected 8
+1 	 colaboration 	->	 collaborations 3
+1 	 cmon 	->	 come on 12
+1 	 closeeee 	->	 close 7
+1 	 chu 	->	 you 11
+1 	 chilln 	->	 chilling 12
+1 	 chillen 	->	 chilling 12
+1 	 chics 	->	 chicks 11
+1 	 chewin 	->	 chewing 12
+1 	 centres 	->	 centers 3
+1 	 centre 	->	 center 3
+1 	 cdfu 	->	 cracking the fuck up 6
+1 	 causin 	->	 causing 12
+1 	 cattitude 	->	 attitude 1
+1 	 catalogue 	->	 catalog 3
+1 	 ca'nt 	->	 can't 1
+1 	 cannnot 	->	 can't 2
+1 	 cancelled 	->	 canceled 3
+1 	 camps 	->	 campus 13
+1 	 callin 	->	 calling 12
+1 	 calc 	-> 4
+1 	 byee 	->	 bye 7
+1 	 butthurt 	->	 butt hurt 5
+1 	 bumpin 	->	 bumping 12
+1 	 bullsh 	->	 bullshit 9
+1 	 buht 	->	 but 11
+1 	 btob 	->	 born to beat 6
+1 	 btcs 	->	 blaze that chronic 6
+1 	 btchs 	->	 bitches 6
+1 	 bsck 	->	 back 1
+1 	 bruuh 	->	 brother 12
+1 	 brutha 	->	 brother 12
+1 	 bru 	->	 brother 12
+1 	 brownskin 	->	 brown skin 5
+1 	 brotha 	->	 brother 12
+1 	 bros 	->	 brothers 12
+1 	 brooo 	->	 brother 9
+1 	 brodcast 	->	 broadcast 11
+1 	 bre 	->	 breath 9
+1 	 brazillian 	->	 brazilian 3
+1 	 bota 	->	 bought a 11
+1 	 boooyyyy 	->	 boy 7
+1 	 boi 	->	 boy 11
+1 	 bloomin 	->	 blooming 12
+1 	 blk 	->	 bulk 8
+1 	 bkuz 	->	 because 11
+1 	 bje 	->	 bye 1
+1 	 bitxh 	->	 bitch 12
+1 	 bitvhes 	->	 bitches 1
+1 	 bitvh 	->	 bitch 1
+1 	 bitchez 	->	 bitches 11
+1 	 bish 	->	 bitch 11
+1 	 biryhday 	->	 birthday 1
+1 	 birthdayyy 	->	 birthday 7
+1 	 birdi 	->	 birdie 11
+1 	 biiiig 	->	 big 7
+1 	 bidge 	->	 bridge 1
+1 	 bfs 	->	 best friends 6
+1 	 betwn 	->	 between 8
+1 	 betta 	->	 better 12
+1 	 betetr 	->	 better 1
+1 	 bestie 	->	 best friend 12
+1 	 beff 	->	 best ever friend forever 6
+1 	 beefff 	->	 best ever friend forever 6
+1 	 becuz 	->	 because 11
+1 	 becum 	->	 become 11
+1 	 be 	->	 but 1
+1 	 beatin 	->	 beating 12
+1 	 bea 	->	 tea 1
+1 	 bcs 	->	 because 8
+1 	 bcos 	->	 because 11
+1 	 bcause 	->	 because 11
+1 	 bby 	->	 baby 8
+1 	 b 	->	 boy 9
+1 	 bball 	->	 basketball 10
+1 	 battlestar 	->	 battle star 5
+1 	 balmy 	->	 balcony 13
+1 	 ballin 	->	 balling 12
+1 	 bakin 	->	 baking 12
+1 	 babyface 	->	 baby face 5
+1 	 ayu 	->	 you 1
+1 	 awnser 	->	 answer 1
+1 	 awa 	->	 as well as 6
+1 	 ave 	->	 avenue 9
+1 	 australi 	->	 australia 1
+1 	 auchhh 	->	 ouch 11
+1 	 atm 	->	 at the moment 6
+1 	 atleast 	->	 at least 5
+1 	 asst 	->	 assistant 10
+1 	 asf 	->	 as fuck 6
+1 	 arthur 	->	 author 1
+1 	 arse 	->	 ass 12
+1 	 aready 	->	 already 1
+1 	 appt 	->	 appointment 10
+1 	 appstore 	->	 app store 5
+1 	 approching 	->	 approaching 11
+1 	 appiled 	->	 appealed 11
+1 	 apperntly 	->	 apparently 10
+1 	 anywayy 	->	 anyway 7
+1 	 anyones 	->	 anyone 1
+1 	 anniv 	->	 anniversary 9
+1 	 anit 	->	 ain't 11
+1 	 ang 	->	 and 1
+1 	 andd 	->	 and 7
+1 	 ammmazing 	->	 amazing 7
+1 	 alwayz 	->	 always 11
+1 	 alrdy 	->	 already 8
+1 	 alergies 	->	 allergies 3
+1 	 airrr 	->	 air 7
+1 	 ainy 	->	 are not going to 13
+1 	 ahold 	->	 a hold 5
+1 	 afg 	->	 afghanistan 9
+1 	 adultwork 	->	 adult work 5
+1 	 adress 	->	 address 3
+1 	 actully 	->	 actually 11
+1 	 acttually 	->	 actually 1
+1 	 actin 	->	 acting 12
+1 	 ache 	-> 4
+1 	 acc 	->	 accident 9
+1 	 abit 	->	 a bit 5
+1 	 a 	->	 ass 9
+1 	 a 	->	 always 9
+1 	 aaand 	->	 and 7
+1 	 a 	-> 4
+1 	 2mrw 	->	 tomorrow 11
+1 	 2moz 	->	 tomorrow 11
+1 	 2day 	->	 today 11
+1 	 22yr 	->	 22 year 10
