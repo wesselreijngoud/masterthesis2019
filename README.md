@@ -4,9 +4,9 @@ Except for the word embeddings file w2v.bin which is the same as used in Van der
 
 When running each program mentioned below, the /Data/Owoputi/owoputi.test can be changed to any data set that is included in the files.
 
+
+
 To run the baselines:
-
-
 
 ```
 
@@ -16,6 +16,14 @@ python3 simplebaseline.py ./Data/Owoputi/owoputi.train+dev ./Data/Owoputi/owoput
 
 python3 agreement.py ./Data/Owoputi/owoputiAnnotated.pairs ./Data/Owoputi/owoputi.ann.real
 ```
+
+
+To run Cohen Kappa program:
+```
+python3 kappa2.py  ./Data/Owoputi/agreement.all
+
+```
+
 To run the classifier for results:
 ```
 python3 classifier.py ./Data/Owoputi/owoputi.train+dev ./Data/Owoputi/owoputi.test -r
